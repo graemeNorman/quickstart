@@ -3,7 +3,7 @@ import {Component} from '@angular/core';
 @Component({
     moduleId: module.id,
     selector: 'mainNavigation',
-    templateUrl: './navigation.template.html'
+    templateUrl: 'navigation.template.html'
 })
 
 export class mainNavigation {

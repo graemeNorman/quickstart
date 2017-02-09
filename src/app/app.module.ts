@@ -9,10 +9,12 @@ import { HomeComponent } from './components/home/home.component';
 import { AboutComponent } from './components/about/about.component';
 
 // Directives
-import { mainNavigation } from './directives/navigation/navigation.directive';
+import { mainNavigation } from './shared/navigation/navigation.directive';
 
 // Routing
 import { routing } from "./app.routing";
+
+// Services
 
 
 @NgModule({
